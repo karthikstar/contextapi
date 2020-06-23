@@ -1,0 +1,19 @@
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 30px;
+    background: linear-gradient(to right, rgb(225, 0, 255), rgb(255, 0, 0));    ;
+    padding: 1%;
+    margin-bottom: 2%;
+
+}
+
+.navtitle{
+    font-size: 2rem;
+    margin: 0;
+}
+.listtitle{
+    margin: 0;
+    font-size: 2rem;
+}
